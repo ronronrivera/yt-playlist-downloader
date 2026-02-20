@@ -68,7 +68,7 @@ macOS:
 brew install ffmpeg
 
 Windows:
-Download from [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)
+Download from https://ffmpeg.org/download.html
 
 Add it to your system PATH.
 
@@ -99,4 +99,5 @@ Saved to:
 Example:
 
 /home/yourusername/Videos/Mix - Music of Japan/
+
 
